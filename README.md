@@ -5,7 +5,7 @@ Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqY
 Links:
 [Youtube](https://www.youtube.com/channel/UCaO5k5qvFP-w4cZX2u_LNWw) / [Discord](https://discordapp.com/users/616294132973043767) / [Instagram](https://www.instagram.com/sooccly/) / 
 [Snapchat](https://www.snapchat.com/add/sooccly) / 
-[Twitch](https://www.twitch.tv/sooccd)
+[Twitch](https://www.twitch.tv/sooccd) / [Reddit](https://www.reddit.com/user/soocc)
 
 
 Description I use in my videos:
@@ -24,4 +24,5 @@ NameMC Profile: [https://namemc.com/profile/soocc.3](https://namemc.com/profile/
 
 ## Youtube
 Music used in videos:
+
 (Lofi Records) https://www.youtube.com/channel/UCuw1VDsmOWOldKGLYq6AkVg
