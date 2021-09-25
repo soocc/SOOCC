@@ -21,3 +21,7 @@ Pack: Midnight 16x (Intel Edits 200k Pack)
 Username: soocc
 
 NameMC Profile: [https://namemc.com/profile/soocc.3](https://namemc.com/profile/soocc.3)
+
+## Youtube
+Music used in videos:
+(Lofi Records) https://www.youtube.com/channel/UCuw1VDsmOWOldKGLYq6AkVg
