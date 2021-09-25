@@ -1,4 +1,4 @@
-### Welcome to the soocc website!
+## Welcome to the soocc website!
 
 Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
 
@@ -17,4 +17,6 @@ Join my discord! https://discord.gg/nZAxRV2Wnp
 Pack: Midnight 16x (Intel Edits 200k Pack)
 ```
 
-My Minecraft IGN: soocc
+### Minecraft
+Username: soocc
+NameMC Profile: [https://namemc.com/profile/soocc.3](https://namemc.com/profile/soocc.3)
