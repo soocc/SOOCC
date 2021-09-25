@@ -1,6 +1,6 @@
-## soocc
-
 #### Welcome to the soocc website!
+
+Join my Discord server! https://discord.gg/EbbqYjxgpA
 
 Links:
 [Youtube](https://www.youtube.com/channel/UCaO5k5qvFP-w4cZX2u_LNWw) / [Discord](https://discordapp.com/users/616294132973043767) / [Instagram](https://www.instagram.com/sooccly/) / 
