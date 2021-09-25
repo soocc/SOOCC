@@ -7,19 +7,19 @@ Links:
 [Snapchat](https://www.snapchat.com/add/sooccly) / 
 [Twitch](https://www.twitch.tv/sooccd) / [Reddit](https://www.reddit.com/user/soocc)
 
-Linktree: https://linktr.ee/soocc
+Linktree: [https://linktr.ee/soocc](https://linktr.ee/soocc)
 
 ## Minecraft
 Username: soocc
 
-Hypixel stats: https://plancke.io/hypixel/player/stats/soocc
+Hypixel stats: [https://plancke.io/hypixel/player/stats/soocc](https://plancke.io/hypixel/player/stats/soocc)
 
-NameMC Profile: https://namemc.com/profile/soocc.3
+NameMC Profile: [https://namemc.com/profile/soocc.3](https://namemc.com/profile/soocc.3)
 
 ## Youtube
 Music used in videos:
 
-(Lofi Records) https://www.youtube.com/channel/UCuw1VDsmOWOldKGLYq6AkVg
+(Lofi Records) [https://www.youtube.com/channel/UCuw1VDsmOWOldKGLYq6AkVg](https://www.youtube.com/channel/UCuw1VDsmOWOldKGLYq6AkVg)
 
 Description I use in my videos:
 ```markdown
