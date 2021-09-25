@@ -4,7 +4,7 @@
 
 [Click here for my youtube channel!](https://www.youtube.com/channel/UCaO5k5qvFP-w4cZX2u_LNWw)
 
-Description I use in my videos
+Description I use in my videos:
 ```markdown
 Thank you for watching :)
 
