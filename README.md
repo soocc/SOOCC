@@ -16,3 +16,5 @@ My socials! https://linktr.ee/soocc
 Join my discord! https://discord.gg/nZAxRV2Wnp
 Pack: Midnight 16x (Intel Edits 200k Pack)
 ```
+
+remote_theme: "just-the-docs"
