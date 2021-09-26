@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
+
+title: [SOOCC]
+description: [The official soocc website]
