@@ -1,4 +1,4 @@
-## Welcome to the soocc website!
+# SOOCC
 
 #### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
 
