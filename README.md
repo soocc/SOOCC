@@ -1,4 +1,4 @@
-# soocc's humble website
+# SOOCC'S HUMBLE WEBSITE
 
 <hr>
 
