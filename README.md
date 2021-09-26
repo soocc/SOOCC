@@ -1,4 +1,4 @@
-# SOOCC
+# soocc's humble website
 
 #### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
 
