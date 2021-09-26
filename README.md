@@ -1,5 +1,7 @@
 # soocc's humble website
 
+<hr>
+
 #### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
 
 Socials:
