@@ -1,4 +1,4 @@
-# SECRET CODED SUCC
+# 𝐒𝐄𝐂𝐑𝐄𝐓 𝐂𝐎𝐃𝐄𝐃 𝐒𝐔𝐂𝐂
 [Home](soocc.github.io) | [About](about)
 <hr>
 
