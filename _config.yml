@@ -1,7 +1,9 @@
 theme: jekyll-theme-minimal
+/*
 github:
   is_project_page: false
 show_downloads: false
 
 title: Home
 description: [The official soocc website]
+*/
