@@ -1,5 +1,5 @@
-# SOOCC'S HUMBLE WEBSITE
-[Home](soocc.github.io) | [About](soocc.github.io/about)
+# SECRET CODED SUCC
+[Home](soocc.github.io) | [About](about)
 <hr>
 
 #### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
