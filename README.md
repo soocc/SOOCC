@@ -1,4 +1,4 @@
-# SECRET CODED SUCC
+# SOOCC's WEBSITE
 [Home](soocc.github.io) | [About](about)
 <hr>
 
@@ -27,7 +27,7 @@ Description I use in my videos:
 ```markdown
 Thank you for watching :)
 
-My socials! https://linktr.ee/soocc
+My socials! https://soocc.github.io (it's a github pages link, so it's safe to click)
 Join my discord! https://discord.gg/nZAxRV2Wnp
-Pack: Midnight 16x (Intel Edits 200k Pack)
+Pack: Ask me in the comments!
 ```
