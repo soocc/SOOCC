@@ -2,6 +2,8 @@
 [Home](soocc.github.io) | [About](about)
 <hr>
 
+Hello! I'm a spleef leaderboard player on Minemen Club.
+
 #### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
 
 Socials:
