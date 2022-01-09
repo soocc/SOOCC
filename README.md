@@ -1,4 +1,4 @@
-# SOOCC's WEBSITE
+# SOOCC'S WEBSITE
 [Home](soocc.github.io) | [About](about)
 <hr>
 
