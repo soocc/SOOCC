@@ -1,3 +1,5 @@
+<body bgcolor=”#800000">
+                       
 # SOOCC'S WEBSITE
 [Home](soocc.github.io) | [About](about)
 <hr>
