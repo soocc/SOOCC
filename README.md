@@ -35,3 +35,5 @@ My socials! https://soocc.github.io (it's a github pages link, so it's safe to c
 Join my discord! https://discord.gg/nZAxRV2Wnp
 Pack: Ask me in the comments!
 ```
+
+Business email: sanelightspy@gmail.com
