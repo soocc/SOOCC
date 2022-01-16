@@ -1,33 +1,9 @@
 # SOOCC'S WEBSITE
 [Home](soocc.github.io) | [About](about)
-
-<a href="#" class="myButton">About</a>
-
-.myButton {
-	background-color:#44c767;
-	border-radius:28px;
-	border:1px solid #18ab29;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-}
-.myButton:hover {
-	background-color:#5cbf2a;
-}
-.myButton:active {
-	position:relative;
-	top:1px;
-}
-
-
 <hr>
 ### Latest video :)
 
-<iframe style="border: 3px solid #EEE;" width="560" height="315" src="https://www.youtube.com/embed/U0TCE5wYaow" frameborder="0" allowfullscreen></iframe>
+<iframe style="border: 3px solid #EEE;" width="600" height="355" src="https://www.youtube.com/embed/U0TCE5wYaow" frameborder="0" allowfullscreen></iframe>
 
 #### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
 
