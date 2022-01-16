@@ -1,7 +1,9 @@
 # SOOCC'S WEBSITE
 [Home](soocc.github.io) | [About](about)
 <hr>
-<iframe width="424" height="238" src="https://www.youtube.com/embed/9T8slx1nAw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Latest video :)
+
+<iframe style="border: 3px solid #EEE;" width="560" height="315" src="https://www.youtube.com/embed/U0TCE5wYaow" frameborder="0" allowfullscreen></iframe>
 
 #### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
 
