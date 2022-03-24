@@ -2,8 +2,6 @@
 [Home](soocc.github.io) | [About](about) | [Videos](videos)
 <hr>
 
-# About
-
 ## Socials
 [Youtube](https://www.youtube.com/channel/UCaO5k5qvFP-w4cZX2u_LNWw) / [Discord](https://discordapp.com/users/616294132973043767) / [Instagram](https://www.instagram.com/sooccly/) / 
 [Snapchat](https://www.snapchat.com/add/sooccly) / 
