@@ -46,7 +46,7 @@ I usually butterfly click in duels because it gives me the most aim. However, I 
 I aspire to be a youtuber like Stimpy (Marcel), Technoblade, Telly, BedlessNoob, MrBeast, Skeppy, AreUMadLoL, Ziblacking, Refraction, or PewDiePie.
 I like playing on minecraft servers like Minemen Club, Hypixel, Lunar, Jartex Network, and Kohi.
 If you read till the end, please consider liking, commenting, or subscribing!
-Comment "Orange Juice" if you see this!
+Comment "Orange Juice" if you see this :)
 ```
 <br><br><br>
 #### Business email: sanelightspy@gmail.com
