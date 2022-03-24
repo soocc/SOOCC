@@ -1,10 +1,6 @@
 # SOOCC'S WEBSITE
 [Home](soocc.github.io) | [About](about)
 <hr>
-### Latest video :)
-
-<iframe width="600" height="340" src="https://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=soocc" frameborder="0" allowfullscreen></iframe>
-<iframe style="border: 5px solid #EEE;" width="700" height="455" src="https://www.youtube.com/embed/U0TCE5wYaow" frameborder="0" allowfullscreen></iframe>
 
 #### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
 
