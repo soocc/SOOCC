@@ -1,7 +1,3 @@
-# SECRET CODED SUCC
-[Home](soocc.github.io) | [Blog](blog) | [Videos](videos) | [Music](music) | [Code](code)
-<hr>
-
 #### Welcome to my website! I go by the nickname "soocc", and I produce music, software, and youtube videos.
 #### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
 
