@@ -2,7 +2,6 @@
 [Home](soocc.github.io) | [About](about) | [Videos](videos)
 <hr>
 
-#### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
+Welcome to my website!
 
-<br><br><br>
-#### Business email: sanelightspy@gmail.com
+#### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
