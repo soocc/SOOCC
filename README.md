@@ -1,5 +1,6 @@
-#### Welcome to my soocc's socks! I go by the nickname "soocc", and I produce music, art, software, and youtube videos.
-#### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
+### Welcome to my soocc's socks! I go by the nickname "soocc", and I produce music, art, software, and youtube videos.
+### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
+<br>
 
 ## Socials
 #### Business email: sanelightspy@gmail.com
