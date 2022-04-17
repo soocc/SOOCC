@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>soocc's socks | official website</title>
+    <style>
+      head
+    <style>
+    <div id="header">
+      <title>soocc's socks | official website</title>
+      <h1><a href="index">soocc's socks</a></h1>
+      <a href="index">Home</a> | <a href="sockpvp">SockPvP</a>
+      <hr>
+    </div>
     <link rel="icon" type="image/png" href="favicon.png">
     <meta charset="UTF-8">
 
@@ -14,9 +22,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     
-    <h1><a href="index">soocc's socks</a></h1>
-    <a href="index">Home</a> | <a href="sockpvp">SockPvP</a>
-    <hr>
     <main id="content" class="main-content" role="main">
       {{ content }}
     </main>
