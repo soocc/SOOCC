@@ -1,4 +1,4 @@
-<img src="assets/pages banner.png" alt="soocc">
+<img src="pages banner.png" alt="soocc">
 ### Welcome to soocc's socks! I go by the nickname "soocc", and I produce music, art, software, and youtube videos.
 ### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
 <br>
