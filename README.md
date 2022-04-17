@@ -20,11 +20,9 @@ NameMC Profile: [https://namemc.com/profile/soocc.3](https://namemc.com/profile/
 ## Youtube
 ### Music used in videos:
 
-Just search rap songs no copyright on YouTube and you'll find them!
+Most of my songs are found in the channel [Lofi Records](https://www.youtube.com/channel/UCuw1VDsmOWOldKGLYq6AkVg).
 
-If you want a specific song name, just use ask Google Assistant "What's this song?"
-
-(Lofi Records) [https://www.youtube.com/channel/UCuw1VDsmOWOldKGLYq6AkVg](https://www.youtube.com/channel/UCuw1VDsmOWOldKGLYq6AkVg)
+If you can't find a specific song, you can use a [song search](https://www.google.com/search?q=song+search) tool.
 
 ### Description used in videos:
 ```markdown
