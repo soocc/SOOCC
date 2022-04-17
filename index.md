@@ -26,7 +26,7 @@ Most of my songs are found in the channel [Lofi Records](https://www.youtube.com
 If you can't find a specific song, you can try finding and using a [song search](https://www.google.com/search?q=song+search) tool.
 
 ### Description used in videos:
-<blockquote>
+```
 Thank you for watching :)
 
 My socials! https://soocc.github.io (it's a github pages link, so it's safe to click)
@@ -42,4 +42,4 @@ I aspire to be a youtuber like Stimpy (Marcel), Technoblade, Telly, BedlessNoob,
 I like playing on minecraft servers like Minemen Club, Hypixel, Lunar, Jartex Network, and Kohi.
 If you read till the end, please consider liking, commenting, or subscribing!
 Comment "Orange Juice" if you see this :)
-</blockquote>
+```
