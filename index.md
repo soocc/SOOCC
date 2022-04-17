@@ -1,7 +1,3 @@
-<meta property="og:title" content="soocc's socks | Home">
-<meta property="og:description" content="soocc's website not a rickroll">
-<meta property="og:image" content="pages banner.png">
-
 <img src="pages banner.png" alt="soocc">
 ### Welcome to soocc's socks! I go by the nickname "soocc", and I produce music, art, software, and youtube videos.
 ### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
