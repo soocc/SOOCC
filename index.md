@@ -2,6 +2,8 @@
 ### Join my Discord server! [https://discord.gg/EbbqYjxgpA](https://discord.gg/EbbqYjxgpA)
 <br>
 
+<img src="favicon.png" alt="soocc">
+
 ## Socials
 Business email: sanelightspy@gmail.com
 
