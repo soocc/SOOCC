@@ -3,7 +3,7 @@
 ### Join my Discord server! [https://discord.gg/72UPzkfxXM](https://discord.gg/72UPzkfxXM)
 <br>
 
-# About
+# About Me
 
 ## Socials
 Business email: sanelightspy@gmail.com
@@ -22,13 +22,13 @@ NameMC Profile: [https://namemc.com/profile/soocc.3](https://namemc.com/profile/
 <br><br>
 
 ## Youtube
-### Music used in videos:
+### Music I use in my videos:
 
 Most of my songs are found in the channel [Lofi Records](https://www.youtube.com/channel/UCuw1VDsmOWOldKGLYq6AkVg).
 
 If you can't find a specific song, you can try finding and using a [song search](https://www.google.com/search?q=song+search) tool.
 
-### Description used in videos:
+### Description I use in my videos:
 ```
 Thank you for watching :)
 
