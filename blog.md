@@ -8,7 +8,7 @@ layout: default
     <article class="post">
       <hr>
       <div class="date">
-        Written on {{ page.date | date: "%B %e, %Y" }}
+        Written on {{ post.date | date: "%B %e, %Y" }}
       </div>
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <div class="entry">
