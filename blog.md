@@ -12,7 +12,8 @@ layout: default
       </div>
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <div class="entry">
-        {{ post.excerpt }}...<a href="{{ site.baseurl }}{{ post.url }}">Read More</a>
+        <blockquote>{{ post.excerpt }}</blockquote>
+        ...<a href="{{ site.baseurl }}{{ post.url }}">Read More</a>
       </div>
       <br>
     </article>
