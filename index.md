@@ -3,6 +3,8 @@
 ### Join my Discord server! [https://discord.gg/72UPzkfxXM](https://discord.gg/72UPzkfxXM)
 <br>
 
+# About
+
 ## Socials
 Business email: sanelightspy@gmail.com
 
