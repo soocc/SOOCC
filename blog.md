@@ -3,10 +3,10 @@ layout: default
 ---
 
 # Posts
-<hr>
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
+      <hr>
       <div class="date">
         Written on {{ post.date | date: "%B %e, %Y" }}
       </div>
